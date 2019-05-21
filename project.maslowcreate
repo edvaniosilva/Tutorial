@@ -152,8 +152,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 102,
-                    "y": 58,
+                    "x": 106,
+                    "y": 46,
                     "uniqueID": 632755,
                     "ioValues": [
                         {
@@ -195,8 +195,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 272,
-                    "y": 158,
+                    "x": 277,
+                    "y": 154,
                     "uniqueID": 950419,
                     "ioValues": [],
                     "readmeText": "Maslow Create is a new type of CAD program where you define the thing you want to create logically, rather than by drawing. Each project is composed of Atoms and Molecules. Each atom performs one logical task like rotating the shape, each Molecule can contain any number of inter connected Atoms. To place an atom or molecule right click anywhere on the flow drawing canvas."
@@ -272,8 +272,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 716,
-                    "y": 284,
+                    "x": 715,
+                    "y": 279,
                     "uniqueID": 606302,
                     "ioValues": [],
                     "readmeText": "This difference Atom subtracts one shape from another. For the opposite behavior check out the intersection atom."
