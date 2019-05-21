@@ -167,6 +167,19 @@
                     ]
                 },
                 {
+                    "atomType": "Constant",
+                    "name": "Constant - Radius",
+                    "x": 75,
+                    "y": 272,
+                    "uniqueID": 832924,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 9.9
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 289,
@@ -176,19 +189,6 @@
                         {
                             "name": "height",
                             "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Constant",
-                    "name": "Constant - Radius",
-                    "x": 72,
-                    "y": 302,
-                    "uniqueID": 832924,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 9.9
                         }
                     ]
                 },
@@ -250,8 +250,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 702,
-                    "y": 56,
+                    "x": 706,
+                    "y": 53,
                     "uniqueID": 800690,
                     "ioValues": [],
                     "readmeText": "Molecules like this one let you layer your model to create more space. Real estate on the screen is intentionally limited to keep projects from becoming cluttered. There is no limit to how deep you can logically nest Atoms in Molecules"
@@ -332,6 +332,12 @@
                     "ap2ID": 225460
                 },
                 {
+                    "ap1Name": "number",
+                    "ap2Name": "radius",
+                    "ap1ID": 832924,
+                    "ap2ID": 606028
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 225460,
@@ -342,12 +348,6 @@
                     "ap2Name": "height",
                     "ap1ID": 225460,
                     "ap2ID": 934230
-                },
-                {
-                    "ap1Name": "number",
-                    "ap2Name": "radius",
-                    "ap1ID": 832924,
-                    "ap2ID": 606028
                 },
                 {
                     "ap1Name": "geometry",
