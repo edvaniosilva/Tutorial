@@ -204,8 +204,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 284,
-                    "y": 291,
+                    "x": 264,
+                    "y": 283,
                     "uniqueID": 606028,
                     "ioValues": [
                         {
@@ -221,8 +221,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 508,
-                    "y": 59,
+                    "x": 515,
+                    "y": 58,
                     "uniqueID": 636389,
                     "ioValues": [
                         {
@@ -242,8 +242,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 511,
-                    "y": 287,
+                    "x": 504,
+                    "y": 283,
                     "uniqueID": 934230,
                     "ioValues": [
                         {
