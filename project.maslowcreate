@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Radius",
-                    "ioValue": 10
+                    "ioValue": 5
                 }
             ],
             "topLevel": false,
@@ -69,7 +69,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 5
                         },
                         {
                             "name": "y",
@@ -87,7 +87,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -14
+                            "ioValue": -7
                         },
                         {
                             "name": "yDist",
@@ -152,8 +152,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 108,
-                    "y": 51,
+                    "x": 103,
+                    "y": 46,
                     "uniqueID": 632755,
                     "ioValues": [
                         {
@@ -169,8 +169,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 305,
-                    "y": 53,
+                    "x": 289,
+                    "y": 38,
                     "uniqueID": 225460,
                     "ioValues": [
                         {
@@ -245,12 +245,7 @@
                     "x": 504,
                     "y": 283,
                     "uniqueID": 934230,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Readme",
@@ -264,8 +259,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 698,
-                    "y": 196,
+                    "x": 699,
+                    "y": 198,
                     "uniqueID": 449683,
                     "ioValues": []
                 },
@@ -287,7 +282,7 @@
                     "ioValues": [
                         {
                             "name": "Radius",
-                            "ioValue": 10
+                            "ioValue": 5
                         }
                     ]
                 },
@@ -341,6 +336,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 225460,
                     "ap2ID": 636389
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 225460,
+                    "ap2ID": 934230
                 },
                 {
                     "ap1Name": "number",
